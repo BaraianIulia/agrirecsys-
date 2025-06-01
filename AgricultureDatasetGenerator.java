@@ -5,7 +5,7 @@ import java.util.Random;
 public class AgricultureDatasetGenerator {
 
     public static void main(String[] args) {
-        String csvFile = "simple_agriculture_dataset.csv";
+        String csvFile = "simple_agriculture_dataset100000.csv";
         try (FileWriter writer = new FileWriter(csvFile)) {
             // Header row
             writer.append("id,soil_type,fertilizer_type,climate,humidity_level,pest_disease_management,");
@@ -29,8 +29,8 @@ public class AgricultureDatasetGenerator {
             // Random number generator
             Random rand = new Random();
 
-            // Generate 500 rows of data
-            for (int i = 1; i <= 500000; i++) {
+            // Generate X rows of data
+            for (int i = 1; i <= 100000; i++) {
                 String id = String.valueOf(i);
                 String soilType = soilTypes[rand.nextInt(soilTypes.length)];
                 String fertilizerType = fertilizerTypes[rand.nextInt(fertilizerTypes.length)];

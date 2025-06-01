@@ -1,0 +1,101 @@
+id,soil_type,fertilizer_type,climate,humidity_level,pest_disease_management,plant_time,crop_harvested,water_temperature,harvest_colour,seed_supplier,season,distance_to_retailer,harvest_yield
+1,Clay,Chemical,Arid,73,Integrated Pest Management,Late Summer,Lettuce,34C,Medium,GreenFields,Autumn,133km,37%
+2,Loamy,Chemical,Temperate,71,Biological Control - Predatory Insects,Late Spring,Carrot,28C,Medium,AgriSeeds Co.,Winter,133km,95%
+3,Loamy,Chemical,Tropical,71,Chemical Control - Synthetic Pesticides,Late Summer,Wheat,21C,Medium-Rare,GreenFields,Autumn,131km,72%
+4,Loamy,Compost,Tropical,83,Chemical Control - Organic Pesticides,Early Spring,Potato,34C,Rare,GreenFields,Winter,129km,81%
+5,Loamy,Compost,Tropical,83,Chemical Control - Organic Pesticides,Late Summer,Tomato,28C,Medium-Well,GreenFields,Autumn,134km,79%
+6,Loamy,Compost,Temperate,68,Chemical Control - Organic Pesticides,Early Summer,Tomato,26C,Overdone,GreenFields,Autumn,130km,36%
+7,Loamy,Organic,Tropical,84,Chemical Control - Synthetic Pesticides,Early Spring,Corn,34C,Medium-Well,FarmGrow Inc.,Autumn,134km,96%
+8,Loamy,Organic,Temperate,80,Biological Control - Predatory Insects,Early Spring,Potato,27C,Rare,AgriSeeds Co.,Winter,132km,22%
+9,Sandy,Compost,Tropical,73,Integrated Pest Management,Early Summer,Carrot,27C,Medium-Rare,AgriSeeds Co.,Winter,132km,59%
+10,Saline,Organic,Tropical,80,Integrated Pest Management,Winter,Lettuce,32C,Overdone,CropLife Solutions,Autumn,130km,89%
+11,Loamy,Compost,Temperate,75,Chemical Control - Organic Pesticides,Winter,Lettuce,31C,Medium,GreenFields,Summer,132km,68%
+12,Sandy,Organic,Tropical,67,Biological Control - Predatory Insects,Late Spring,Lettuce,28C,Medium-Rare,GreenFields,Autumn,134km,87%
+13,Loamy,Organic,Tropical,71,Biological Control - Predatory Insects,Late Summer,Potato,32C,Rare,CropLife Solutions,Summer,132km,61%
+14,Sandy,Chemical,Arid,80,Chemical Control - Organic Pesticides,Late Summer,Corn,22C,Medium-Rare,FarmGrow Inc.,Summer,128km,78%
+15,Sandy,Chemical,Temperate,66,Chemical Control - Organic Pesticides,Late Spring,Tomato,28C,Overdone,GreenFields,Spring,128km,62%
+16,Loamy,Compost,Temperate,66,Biological Control - Predatory Insects,Late Summer,Corn,30C,Well-Done,CropLife Solutions,Spring,128km,32%
+17,Loamy,Organic,Arid,84,Integrated Pest Management,Late Summer,Potato,31C,Rare,GreenFields,Summer,129km,23%
+18,Loamy,Chemical,Temperate,75,Biological Control - Predatory Insects,Early Spring,Carrot,27C,Medium-Rare,AgriSeeds Co.,Autumn,128km,69%
+19,Loamy,Chemical,Arid,73,Integrated Pest Management,Late Spring,Corn,32C,Medium-Rare,FarmGrow Inc.,Spring,134km,46%
+20,Clay,Chemical,Temperate,84,Biological Control - Predatory Insects,Early Summer,Lettuce,34C,Overdone,GreenFields,Spring,129km,42%
+21,Clay,Compost,Arid,64,Chemical Control - Synthetic Pesticides,Early Summer,Wheat,34C,Rare,GreenFields,Autumn,131km,25%
+22,Loamy,Organic,Tropical,72,Biological Control - Predatory Insects,Late Summer,Corn,27C,Overdone,FarmGrow Inc.,Summer,132km,30%
+23,Clay,Compost,Arid,62,Biological Control - Predatory Insects,Winter,Lettuce,29C,Well-Done,AgriSeeds Co.,Spring,132km,75%
+24,Loamy,Compost,Temperate,77,Biological Control - Predatory Insects,Early Spring,Corn,31C,Medium,FarmGrow Inc.,Summer,133km,23%
+25,Saline,Chemical,Arid,61,Biological Control - Predatory Insects,Early Summer,Tomato,21C,Well-Done,AgriSeeds Co.,Spring,128km,40%
+26,Clay,Chemical,Temperate,69,Chemical Control - Synthetic Pesticides,Winter,Corn,23C,Medium-Rare,AgriSeeds Co.,Summer,134km,61%
+27,Clay,Compost,Temperate,70,Biological Control - Predatory Insects,Early Summer,Wheat,20C,Well-Done,FarmGrow Inc.,Spring,134km,49%
+28,Saline,Compost,Temperate,63,Chemical Control - Organic Pesticides,Early Summer,Tomato,20C,Rare,FarmGrow Inc.,Autumn,133km,32%
+29,Clay,Compost,Tropical,79,Chemical Control - Organic Pesticides,Autumn,Wheat,26C,Overdone,FarmGrow Inc.,Spring,134km,95%
+30,Loamy,Organic,Arid,85,Integrated Pest Management,Autumn,Carrot,29C,Well-Done,GreenFields,Winter,129km,59%
+31,Clay,Organic,Tropical,65,Chemical Control - Organic Pesticides,Early Summer,Carrot,20C,Medium-Rare,FarmGrow Inc.,Summer,128km,38%
+32,Sandy,Compost,Arid,82,Chemical Control - Synthetic Pesticides,Autumn,Lettuce,26C,Medium-Well,CropLife Solutions,Spring,129km,72%
+33,Clay,Chemical,Tropical,75,Chemical Control - Organic Pesticides,Early Spring,Tomato,25C,Rare,CropLife Solutions,Spring,128km,40%
+34,Sandy,Chemical,Arid,80,Chemical Control - Synthetic Pesticides,Winter,Corn,31C,Medium-Rare,FarmGrow Inc.,Autumn,128km,26%
+35,Loamy,Organic,Arid,69,Integrated Pest Management,Winter,Corn,34C,Medium-Well,GreenFields,Summer,131km,87%
+36,Saline,Organic,Arid,71,Chemical Control - Synthetic Pesticides,Autumn,Lettuce,24C,Rare,GreenFields,Autumn,134km,55%
+37,Saline,Compost,Temperate,81,Chemical Control - Synthetic Pesticides,Autumn,Carrot,20C,Medium-Rare,GreenFields,Winter,130km,78%
+38,Sandy,Compost,Temperate,81,Chemical Control - Synthetic Pesticides,Early Spring,Corn,22C,Medium-Well,CropLife Solutions,Summer,129km,87%
+39,Clay,Compost,Arid,70,Chemical Control - Synthetic Pesticides,Late Summer,Corn,22C,Overdone,FarmGrow Inc.,Winter,131km,97%
+40,Clay,Chemical,Temperate,60,Chemical Control - Organic Pesticides,Winter,Carrot,32C,Medium,CropLife Solutions,Winter,131km,53%
+41,Clay,Organic,Arid,76,Biological Control - Predatory Insects,Early Spring,Potato,28C,Medium-Well,GreenFields,Autumn,133km,50%
+42,Loamy,Organic,Temperate,81,Chemical Control - Synthetic Pesticides,Winter,Potato,21C,Medium-Rare,GreenFields,Summer,128km,36%
+43,Loamy,Compost,Arid,68,Integrated Pest Management,Early Spring,Carrot,34C,Well-Done,AgriSeeds Co.,Autumn,133km,85%
+44,Loamy,Organic,Tropical,71,Chemical Control - Synthetic Pesticides,Late Summer,Lettuce,23C,Rare,GreenFields,Summer,130km,50%
+45,Saline,Organic,Arid,60,Biological Control - Predatory Insects,Winter,Wheat,22C,Medium-Well,CropLife Solutions,Winter,131km,73%
+46,Sandy,Organic,Tropical,76,Chemical Control - Synthetic Pesticides,Autumn,Tomato,24C,Rare,CropLife Solutions,Autumn,128km,44%
+47,Clay,Compost,Temperate,71,Chemical Control - Synthetic Pesticides,Winter,Potato,31C,Medium-Well,CropLife Solutions,Winter,130km,45%
+48,Loamy,Compost,Tropical,61,Biological Control - Predatory Insects,Late Summer,Wheat,21C,Overdone,FarmGrow Inc.,Winter,128km,78%
+49,Loamy,Chemical,Tropical,67,Biological Control - Predatory Insects,Early Summer,Potato,29C,Overdone,AgriSeeds Co.,Summer,129km,63%
+50,Sandy,Organic,Arid,84,Chemical Control - Organic Pesticides,Early Summer,Corn,31C,Well-Done,CropLife Solutions,Summer,134km,78%
+51,Clay,Compost,Temperate,61,Integrated Pest Management,Early Summer,Tomato,32C,Overdone,FarmGrow Inc.,Winter,130km,69%
+52,Saline,Chemical,Tropical,65,Biological Control - Predatory Insects,Early Spring,Corn,26C,Medium-Well,AgriSeeds Co.,Autumn,128km,24%
+53,Loamy,Compost,Temperate,79,Chemical Control - Synthetic Pesticides,Late Summer,Lettuce,26C,Medium-Rare,GreenFields,Winter,134km,89%
+54,Saline,Compost,Tropical,60,Chemical Control - Synthetic Pesticides,Early Summer,Carrot,24C,Well-Done,GreenFields,Summer,129km,27%
+55,Saline,Compost,Arid,75,Integrated Pest Management,Late Spring,Corn,25C,Well-Done,CropLife Solutions,Winter,129km,59%
+56,Sandy,Organic,Temperate,66,Chemical Control - Organic Pesticides,Early Summer,Corn,29C,Overdone,FarmGrow Inc.,Autumn,130km,41%
+57,Loamy,Chemical,Arid,67,Chemical Control - Organic Pesticides,Late Summer,Potato,33C,Medium,CropLife Solutions,Spring,133km,76%
+58,Saline,Organic,Temperate,85,Chemical Control - Synthetic Pesticides,Winter,Tomato,25C,Rare,AgriSeeds Co.,Spring,134km,95%
+59,Loamy,Compost,Arid,67,Chemical Control - Synthetic Pesticides,Winter,Potato,27C,Well-Done,AgriSeeds Co.,Winter,130km,89%
+60,Saline,Chemical,Tropical,72,Integrated Pest Management,Winter,Corn,33C,Medium-Well,GreenFields,Winter,133km,45%
+61,Sandy,Chemical,Tropical,83,Biological Control - Predatory Insects,Late Summer,Potato,21C,Well-Done,CropLife Solutions,Winter,134km,30%
+62,Clay,Compost,Temperate,82,Biological Control - Predatory Insects,Winter,Carrot,31C,Well-Done,GreenFields,Summer,129km,95%
+63,Saline,Organic,Temperate,64,Chemical Control - Organic Pesticides,Winter,Lettuce,20C,Overdone,CropLife Solutions,Summer,132km,40%
+64,Sandy,Chemical,Temperate,65,Chemical Control - Synthetic Pesticides,Winter,Carrot,25C,Medium,FarmGrow Inc.,Autumn,133km,55%
+65,Saline,Chemical,Arid,68,Chemical Control - Organic Pesticides,Autumn,Carrot,21C,Medium,CropLife Solutions,Summer,130km,54%
+66,Sandy,Chemical,Arid,78,Chemical Control - Organic Pesticides,Late Summer,Carrot,21C,Medium,AgriSeeds Co.,Winter,128km,59%
+67,Clay,Chemical,Tropical,71,Integrated Pest Management,Winter,Lettuce,24C,Medium,FarmGrow Inc.,Summer,131km,68%
+68,Sandy,Compost,Temperate,78,Integrated Pest Management,Winter,Tomato,31C,Medium,CropLife Solutions,Spring,131km,81%
+69,Saline,Chemical,Tropical,64,Chemical Control - Synthetic Pesticides,Early Spring,Tomato,23C,Medium-Well,CropLife Solutions,Autumn,133km,94%
+70,Loamy,Chemical,Arid,85,Integrated Pest Management,Autumn,Wheat,21C,Overdone,AgriSeeds Co.,Winter,129km,58%
+71,Saline,Chemical,Tropical,65,Chemical Control - Organic Pesticides,Early Summer,Tomato,21C,Medium-Rare,GreenFields,Spring,128km,33%
+72,Loamy,Organic,Arid,70,Chemical Control - Organic Pesticides,Early Summer,Tomato,24C,Medium-Rare,AgriSeeds Co.,Autumn,130km,50%
+73,Saline,Organic,Temperate,68,Chemical Control - Organic Pesticides,Autumn,Tomato,21C,Medium,GreenFields,Spring,129km,87%
+74,Sandy,Compost,Arid,70,Biological Control - Predatory Insects,Late Spring,Carrot,26C,Well-Done,FarmGrow Inc.,Winter,134km,33%
+75,Clay,Organic,Temperate,81,Chemical Control - Synthetic Pesticides,Late Spring,Carrot,25C,Overdone,FarmGrow Inc.,Winter,129km,65%
+76,Sandy,Compost,Tropical,70,Biological Control - Predatory Insects,Winter,Lettuce,34C,Medium-Rare,AgriSeeds Co.,Winter,132km,43%
+77,Saline,Organic,Arid,85,Chemical Control - Organic Pesticides,Winter,Tomato,28C,Rare,GreenFields,Spring,133km,70%
+78,Clay,Organic,Arid,70,Biological Control - Predatory Insects,Early Summer,Lettuce,29C,Medium,FarmGrow Inc.,Summer,129km,45%
+79,Saline,Organic,Arid,74,Biological Control - Predatory Insects,Early Summer,Carrot,31C,Medium,CropLife Solutions,Spring,132km,75%
+80,Sandy,Organic,Arid,69,Biological Control - Predatory Insects,Late Spring,Potato,33C,Well-Done,CropLife Solutions,Autumn,129km,56%
+81,Saline,Organic,Arid,70,Biological Control - Predatory Insects,Early Spring,Tomato,31C,Medium-Rare,AgriSeeds Co.,Winter,129km,67%
+82,Clay,Organic,Tropical,70,Biological Control - Predatory Insects,Late Spring,Lettuce,24C,Rare,GreenFields,Spring,131km,29%
+83,Saline,Compost,Arid,72,Chemical Control - Synthetic Pesticides,Early Spring,Corn,21C,Rare,AgriSeeds Co.,Spring,131km,86%
+84,Sandy,Compost,Tropical,73,Biological Control - Predatory Insects,Late Spring,Wheat,30C,Overdone,CropLife Solutions,Autumn,132km,54%
+85,Saline,Organic,Temperate,76,Biological Control - Predatory Insects,Winter,Lettuce,33C,Medium-Well,FarmGrow Inc.,Summer,133km,90%
+86,Saline,Compost,Tropical,66,Integrated Pest Management,Late Spring,Wheat,27C,Medium-Well,GreenFields,Winter,128km,47%
+87,Clay,Compost,Tropical,64,Integrated Pest Management,Autumn,Tomato,26C,Medium,CropLife Solutions,Spring,128km,72%
+88,Saline,Organic,Temperate,60,Integrated Pest Management,Early Summer,Tomato,22C,Medium-Rare,AgriSeeds Co.,Spring,129km,85%
+89,Loamy,Organic,Tropical,79,Integrated Pest Management,Late Spring,Lettuce,27C,Rare,CropLife Solutions,Winter,133km,23%
+90,Loamy,Chemical,Temperate,63,Chemical Control - Synthetic Pesticides,Early Summer,Corn,28C,Rare,FarmGrow Inc.,Autumn,134km,50%
+91,Loamy,Compost,Temperate,60,Chemical Control - Organic Pesticides,Early Summer,Wheat,34C,Medium,CropLife Solutions,Spring,131km,52%
+92,Sandy,Organic,Temperate,67,Integrated Pest Management,Late Summer,Potato,30C,Well-Done,AgriSeeds Co.,Summer,132km,36%
+93,Loamy,Organic,Arid,80,Chemical Control - Synthetic Pesticides,Late Spring,Lettuce,25C,Medium-Well,FarmGrow Inc.,Summer,134km,23%
+94,Clay,Chemical,Tropical,75,Biological Control - Predatory Insects,Early Spring,Tomato,20C,Medium,GreenFields,Autumn,132km,49%
+95,Saline,Compost,Temperate,63,Chemical Control - Organic Pesticides,Early Summer,Wheat,33C,Overdone,FarmGrow Inc.,Winter,131km,23%
+96,Loamy,Chemical,Tropical,65,Integrated Pest Management,Early Summer,Potato,29C,Medium-Rare,AgriSeeds Co.,Summer,133km,65%
+97,Loamy,Chemical,Temperate,85,Integrated Pest Management,Late Spring,Carrot,22C,Medium,GreenFields,Spring,132km,37%
+98,Sandy,Compost,Temperate,71,Chemical Control - Organic Pesticides,Early Spring,Carrot,28C,Overdone,AgriSeeds Co.,Autumn,134km,26%
+99,Loamy,Compost,Arid,70,Biological Control - Predatory Insects,Early Summer,Corn,22C,Well-Done,CropLife Solutions,Spring,128km,69%
+100,Loamy,Chemical,Tropical,62,Integrated Pest Management,Early Spring,Carrot,31C,Overdone,CropLife Solutions,Winter,129km,99%

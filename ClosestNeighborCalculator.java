@@ -146,7 +146,7 @@ public class ClosestNeighborCalculator {
 
         long startTime = System.nanoTime(); // Start time
 
-        String filePath = "simple_agriculture_dataset.csv";
+        String filePath = "simple_agriculture_dataset95000.csv";
         int k = 3; // Set the desired number of neighbors
         findKNearestNeighbors(filePath, k);
 

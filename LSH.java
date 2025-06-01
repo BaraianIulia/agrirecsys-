@@ -127,7 +127,7 @@ public class LSH {
             LSH ann = new LSH(10, 5); // Increased hash functions & bands for better accuracy
 
             long startTime = System.nanoTime();
-            List<DataPoint> dataPoints = loadCSV("C:\\Users\\iulia\\IdeaProjects\\pagerank\\simple_agriculture_dataset.csv");
+            List<DataPoint> dataPoints = loadCSV("C:\\Users\\iulia\\Downloads\\agrirecsys--main\\simple_agriculture_dataset100000.csv");
 
             dataPoints.parallelStream().forEach(ann::addDataPoint);
 
@@ -155,10 +155,10 @@ public class LSH {
                 }
 
                 // Print the 3 closest neighbors for the current query point
-                System.out.println("Data Point ID: " + query.id + " - 3 Nearest Neighbors:");
+                //  System.out.println("Data Point ID: " + query.id + " - 3 Nearest Neighbors:");
                 for (DataPointDistance neighbor : nearestNeighbors) {
                     if (neighbor.dataPoint.id != -1) {  // Avoid printing dummy neighbors
-                        System.out.println("  Neighbor ID: " + neighbor.dataPoint.id + " - Distance: " + neighbor.distance);
+                        //  System.out.println("  Neighbor ID: " + neighbor.dataPoint.id + " - Distance: " + neighbor.distance);
                     }
                 }
             }
